@@ -1,12 +1,3 @@
-- 👋 Hi, I’m Tejas Sharma.
-- 👀 I’m interested in tech,tech designing,problem solving, & Development.
-- 🌱 I’m currently learning Android Development.
-- 🕛 I’m looking to collaborate on ...
-- 📫 How to reach me {E-mail ID📧 :- tejassharma939@gmail.com} {LinkedIn🔗 :- https://www.linkedin.com/in/tejassharmab783b51aa  ....
-- 😄 Pronouns: He/Him ...
-- ⚡ Fun fact: in the name of social i'm on LinkedIn and Github only...
-
-<!---
-sharmatejas2003/sharmatejas2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Hi, I’m Tejas Sharma.
+- E-mail ID :- tejassharma939@gmail.com} {LinkedIn🔗 :- https://www.linkedin.com/in/tejassharmab783b51aa .
+- Pronouns: He/Him .
